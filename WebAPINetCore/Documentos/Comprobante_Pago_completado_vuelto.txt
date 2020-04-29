@@ -1,0 +1,9 @@
+Totalpack
+Comprobante de Pago Completado
+dd/mm/aaaa hh:mm:ss PM
+IDMaq:xxidm Nombre:xxnommaq
+Monto a Pagar: XXXAPAGAR
+Monto Pagado: XXXPAGADO
+Vuelto Total: XXXVAENTREGAR
+Vuelto Entregado: XXXVENTREGADO
+ID de Transaccion: XXXIDTRANS
